@@ -9,19 +9,7 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 
-p1{
-    font-size: medium;
-}
-p2{
-    font-size: medium;
-}
-p3{
-    font-size: medium;
-}
-p4{
-    font-size: medium;
-}
-p5{
+p1,p2,p3,p4,p5{
     font-size: medium;
 }
 
