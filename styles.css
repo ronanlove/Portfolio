@@ -12,6 +12,10 @@ h1{
 p1,p2,p3,p4,p5{
     font-size: medium;
 }
+img{
+    width: 300px;
+    height: 300px;
+}
 
 @keyframes gradientBackground {
     0% { background-position: 0% 50%; }
